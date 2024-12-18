@@ -1,7 +1,7 @@
 <div align="Rigth">
 
   <h1>👋 Hi, I'm Muhammad Alseidi!</h1>
-  <p>Crafting scalable, dynamic, and user-friendly web solutions for over 8 years.</p>
+  <p>Crafting scalable, dynamic, and user-friendly web solutions for over 10+ years.</p>
 </div>
 
 ---
