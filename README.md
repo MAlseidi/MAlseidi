@@ -57,7 +57,7 @@ Key highlights:
 
 ### 📫 Get in Touch
 - 📧 Email: [alseidimuhammad@gmail.com](mailto:alseidimuhammad@gmail.com)
-- 🚀 Portfolio: [muhammad-alseidi.dev](#)
+- 🚀 Portfolio: [[muhammad-alseidi.dev](https://mohammedalseidi.vercel.app/)]
 
 ---
 
