@@ -1,6 +1,6 @@
 <div align="Rigth">
 
-  <h1>👋 Hi, I'm Muhammad Alseidi!</h1>
+  <h1>👋 Hi, I'm Mohammad Alseidi!</h1>
   <p>Crafting scalable, dynamic, and user-friendly web solutions for over 10+ years.</p>
 </div>
 
