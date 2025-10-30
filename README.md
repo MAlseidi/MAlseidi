@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-I am a **Full Stack Developer** with a passion for creating impactful web applications. With expertise in modern JavaScript frameworks like **React**, **VueJS**, **Angular**, and **Next.js**, I specialize in delivering robust solutions across **eCommerce**, **healthcare**, **fintech**, and **SaaS** domains.
+I am a **Senior Full Stack Developer** with a passion for creating impactful web applications. With expertise in modern JavaScript frameworks like **React**, **Next.js**, **Vue.js**, and **Angular**, I specialize in delivering robust solutions across **eCommerce**, **healthcare**, **fintech**, and **SaaS** domains.
 
 Key highlights:
 - Proficient in both front-end and back-end technologies, including **Node.js**, **NestJS**, **Express.js**, and **Python**.
